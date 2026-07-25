@@ -1,16 +1,88 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ODoutorr/ODoutorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Cabeçalho -->
+  <h1>👋 Olá! Eu sou o Doc</h1>
 
-Here are some ideas to get you started:
+  <p><strong>🎮 Streamer 💻 Desenvolvedor em aprendizado 🚀 Apaixonado por tecnologia</strong></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br />
+
+  <!-- Card de Estatísticas -->
+  <a href="https://github.com/ODoutorr">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ODoutorr&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=f9e2af" alt="Estatísticas do GitHub" />
+  </a>
+
+  <br />
+  <br />
+
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=CBA6F7&center=true&vcenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Aprendendo+programa%C3%A7%C3%A3o+por+conta+pr%C3%B3pria.;Tecnologia+%2B+Games+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  </a>
+
+</div>
+
+<br />
+
+---
+
+<br />
+
+## 📖 Sobre Mim
+
+Sou um apaixonado por tecnologia que decidiu dar os primeiros passos no universo da programação. Estou iniciando minha jornada totalmente focado em aprender por conta própria e descobrindo novos conceitos. 
+
+<br />
+
+---
+
+<br />
+
+<div align="center">
+
+## 🎮 Além da Programação
+
+</div>
+
+* 🟣 **Lives na Twitch**
+* 🎬 **Criação de conteúdo**
+* 🔪 **Dead by Daylight**
+* 🕹️ **Jogos em geral**
+
+<br />
+
+---
+
+<br />
+
+<div align="center">
+
+## 🌐 Redes Sociais
+
+<p>
+  <a href="https://twitch.tv/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  &nbsp;
+  <a href="https://tiktok.com/" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+</p>
+
+<br />
+
+<!-- Visitantes -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ODoutorr&style=flat-square&color=cba6f7" alt="Contador de Visitantes" />
+</p>
+
+<br />
+
+<!-- Footer Animado (Com roxo Mauve do Catppuccin) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=120&section=footer" width="100%" alt="Footer" />
+
+</div>
