@@ -13,7 +13,15 @@
   </a>
 
   <br />
-  <br />
+
+<!-- Animação da Cobrinha dos Commits -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ODoutorr/ODoutorr/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ODoutorr/ODoutorr/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ODoutorr/ODoutorr/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
