@@ -38,7 +38,7 @@
 
 ## 📖 Sobre Mim
 
-Sou um apaixonado por tecnologia que decidiu dar os primeiros passos no universo da programação. Estou iniciando minha jornada totalmente focado em aprender por conta própria e descobrindo novos conceitos. 
+Sou streamer e criador de conteúdo, focado em games e comunidade. No meu dia a dia, gosto de criar páginas web práticas e personalizadas para organizar a rotina do canal, acompanhar projetos da live e deixar tudo mais ágil e acessível no meu setup.
 
 <br />
 
