@@ -68,7 +68,7 @@ Sou um apaixonado por tecnologia que decidiu dar os primeiros passos no universo
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   &nbsp;
-  <a href="https://tiktok.com/odoutorr1" target="_blank">
+  <a href="https://tiktok.com/@odoutorr1" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </p>
