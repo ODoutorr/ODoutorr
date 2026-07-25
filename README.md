@@ -60,15 +60,15 @@ Sou um apaixonado por tecnologia que decidiu dar os primeiros passos no universo
 ## 🌐 Redes Sociais
 
 <p>
-  <a href="https://twitch.tv/" target="_blank">
+  <a href="https://twitch.tv/odoutorr1" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
   &nbsp;
-  <a href="https://youtube.com/" target="_blank">
+  <a href="https://youtube.com/@odoutorr" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   &nbsp;
-  <a href="https://tiktok.com/" target="_blank">
+  <a href="https://tiktok.com/odoutorr1" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </p>
