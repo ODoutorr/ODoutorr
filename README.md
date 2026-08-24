@@ -16,7 +16,11 @@
 
 <!-- Animação da Cobrinha dos Commits -->
 <div align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ODoutorr/ODoutorr/output/github-contribution-grid-snake-dark.svg" width="600px">
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/ODoutorr/ODoutorr/output/github-contribution-grid-snake-dark.svg"
+    width="600"
+  >
 </div>
 
   <!-- Typing Animation Atualizada -->
