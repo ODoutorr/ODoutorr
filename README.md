@@ -23,9 +23,9 @@
   </picture>
 </div>
 
-  <!-- Typing Animation -->
+  <!-- Typing Animation Atualizada -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=CBA6F7&center=true&vcenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Aprendendo+programa%C3%A7%C3%A3o+por+conta+pr%C3%B3pria.;Tecnologia+%2B+Games+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=CBA6F7&center=true&vcenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Criando+ferramentas+para+stream.;Automatizando+o+setup+da+Live!;Tecnologia+%2B+Games+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
   </a>
 
 </div>
@@ -38,7 +38,19 @@
 
 ## 📖 Sobre Mim
 
-Sou streamer e criador de conteúdo, focado em games e comunidade. No meu dia a dia, gosto de criar páginas web práticas e personalizadas para organizar a rotina do canal, acompanhar projetos da live e deixar tudo mais ágil e acessível no meu setup.
+Sou streamer e criador de conteúdo, apaixonado por games, comunidade e por resolver problemas. No meu dia a dia, estudo programação por conta própria para construir minhas próprias ferramentas — desde overlays interativos e painéis de coordenação com a minha equipe, até players de mídia otimizados para o meu setup de transmissão. Meu foco é unir tecnologia e criação de conteúdo para deixar as lives cada vez mais dinâmicas.
+
+<br />
+
+---
+
+<br />
+
+## 🛠️ O que estou construindo
+
+* **Docfy:** Um player de mídia de desktop otimizado para longas transmissões, com gerenciamento automático de memória.
+* **Painel Editor:** Dashboard web integrado para coordenar entregas de vídeos curtos.
+* **Overlays Interativos:** Sistemas como o *Drink Day*, que atualizam estatísticas na tela da live em tempo real.
 
 <br />
 
@@ -54,8 +66,8 @@ Sou streamer e criador de conteúdo, focado em games e comunidade. No meu dia a 
 
 * 🟣 **Lives na Twitch**
 * 🎬 **Criação de conteúdo**
-* 🔪 **Dead by Daylight**
-* 🕹️ **Jogos em geral**
+* 🔪 **Dead by Daylight, Valorant, Fortnite e LoL**
+* 🛸 **Maratonar sci-fi (Doctor Who na veia!)**
 
 <br />
 
