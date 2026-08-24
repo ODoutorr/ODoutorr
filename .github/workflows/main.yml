@@ -13,7 +13,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate-github-user-contribution-grid-snake
+      - name: Generate GitHub contribution grid snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -21,7 +21,44 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%232ea043&color_dots=%231e1e2e,%230e4429,%23006d32,%2326a641,%2339d353
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Fix SVG dimensions and crop overflow
+        shell: bash
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          import re
+
+          for file in Path("dist").glob("*.svg"):
+              svg = file.read_text(encoding="utf-8")
+
+              # Grid original: 53 colunas x 7 linhas
+              # Remove a margem usada pela animação fora do grid.
+              svg = re.sub(
+                  r'viewBox="-16 -32 880 192"',
+                  'viewBox="0 0 848 112"',
+                  svg,
+                  count=1
+              )
+
+              svg = re.sub(
+                  r'width="880" height="192"',
+                  'width="848" height="112"',
+                  svg,
+                  count=1
+              )
+
+              # Impede elementos da cobra de aparecerem fora do grid.
+              svg = svg.replace(
+                  '<style>',
+                  '''<style>
+          svg { overflow: hidden; }
+          '''
+              )
+
+              file.write_text(svg, encoding="utf-8")
+          PY
+
+      - name: Push snake SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
